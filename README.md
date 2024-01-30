@@ -1,5 +1,5 @@
 # CS5001 Final Project
-## Cosmic Explorer 
+## Cosmic Explorer 🔭
 A NASA Data Visualization App designed for NASA lovers and scholars.
 
 ## Libraries Implemented
