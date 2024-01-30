@@ -1,2 +1,1 @@
-# CS5001
-Final Project
+# CS5001 Final Project
