@@ -2,21 +2,21 @@
 ## Cosmic Explorer 🔭
 A NASA Data Visualization App designed for NASA lovers and scholars.
 
-## Libraries Implemented
+### Libraries Implemented
 - `streamlit`
 - `unit test`
 - `requests`
 
-## Streamlit Installation
+### Streamlit Installation
 1. Set up Python development environment.
 2. Run:
    `pip install streamlit`
 3. Validate the installation by running Hello app:
    `streamlit hello`
 
-## Run Streamlit application
+### Run Streamlit application
 `python3 -m streamlit run app.py`
 
-## More information
+### More information
 Find in `Project report.md` & 
 [Streamlit Library](https://docs.streamlit.io/library/api-reference)
