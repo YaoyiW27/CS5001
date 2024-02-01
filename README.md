@@ -2,6 +2,13 @@
 ## Cosmic Explorer 🔭
 A NASA Data Visualization App designed for NASA lovers and scholars.
 
+<center>
+
+[![forthebadge]((https://forthebadge.com/images/badges/made-with-python.svg))](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+
+</center>
+
 ### Libraries Implemented
 - `streamlit`
 - `unit test`
