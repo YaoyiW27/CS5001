@@ -1,9 +1,0 @@
-https://northeastern-my.sharepoint.com/:v:/g/personal/wang_yaoyi_northeastern_edu/EZzFrGZAbCZAsDy0CgStCh0BTTfkp9tYZ_OdMaLeMZTsXA
-
-Yaoyi Wang
-
-CS 5001, 2023 Fall
-
-Final Project
-
-This web application leverages NASA's Open APIs to bring space exploration and astronomical wonders closer to the public. This platform will captivate users with the Astronomy Picture of the Day, offering images, explanations, and dates, while also providing a Daily Earth Photos Gallery for immersive exploration. Users can search for specific Astronomy Pictures, and experience the oddity of earth through the View Natural Event feature.
