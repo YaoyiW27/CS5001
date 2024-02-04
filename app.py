@@ -65,7 +65,7 @@ if st.button('Search'):
 st.header('Natural Events')
 natural_event = NaturalEvent()
 natural_event.fetch_events()
-st.title('Due to some NASA data being lost, the links to the following natural events have some data that is lost and cannot be opened.')
+st.markdown('Due to some NASA data being lost, the links to the following natural events have some data that is lost and cannot be opened.')
 if natural_event.error_message:
     st.error(natural_event.error_message)
 elif natural_event.events:
