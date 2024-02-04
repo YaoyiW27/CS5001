@@ -5,7 +5,10 @@ from pages.Search_Astronomy_Picture_of_the_Day import AstronomyPicture
 from pages.View_Natural_Event import NaturalEvent
 from datetime import datetime
 
-st.title('NASA API Dashboard')
+st.title('NASA: Exploring the Outer Space and Earth 🪐')
+
+st.markdown("Welcome to NASA's Visual Universe 🌌")
+st.markdown("Explore the vastness of space with NASA's open APIs! ")
 
 st.header('Astronomy Picture of the Day 🔭')
 
@@ -62,7 +65,7 @@ if st.button('Search'):
 st.header('Natural Events')
 natural_event = NaturalEvent()
 natural_event.fetch_events()
-
+st.title('Due to some NASA data being lost, the links to the following natural events have some data that is lost and cannot be opened.')
 if natural_event.error_message:
     st.error(natural_event.error_message)
 elif natural_event.events:
