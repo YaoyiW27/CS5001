@@ -25,6 +25,7 @@ A NASA Data Visualization App designed for NASA lovers and scholars.
 `python3 -m streamlit run app.py`
 
 ### View
+[Watch the video on YouTube](https://www.youtube.com/watch?v=frsxgp8jiHA)
 ![EPIC Daily Earth Gallery](Screenshots/1.png)
 ![EPIC Daily Earth Gallery](Screenshots/2.png)
 ![EPIC Daily Earth Gallery](Screenshots/3.png)
